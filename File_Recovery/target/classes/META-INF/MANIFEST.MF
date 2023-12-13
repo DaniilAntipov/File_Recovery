@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: Maven.file_analyze.Main
+Class-Path: javafx-graphics-17.0.8.jar log4j-core-2.17.1.jar junit-4.11.
+ jar jfx-testrunner-1.2.jar javafx-controls-17.0.8.jar log4j-api-2.17.1.
+ jar javafx-fxml-17.0.8-win.jar javafx-fxml-17.0.8.jar javafx-base-17.0.
+ 8-win.jar javafx-graphics-17.0.8-win.jar javafx-controls-17.0.8-win.jar
+  hamcrest-core-1.3.jar javafx-base-17.0.8.jar
+
